@@ -1,0 +1,2 @@
+# CommonImageLoader
+优雅地实现Android主流图片加载框架封装，可无侵入切换框架
